@@ -2,10 +2,10 @@ public class Multi {
 
     public static void main(String[] args) {
 
-        float first = 1.4f;
-        float second = 2.0f;
+        float fnum = 1.4f;
+        float snum = 2.5f;
 
-        float product = first * second;
+        float product = fnum * snum;
 
         System.out.println("The product is: " + product);
     }
