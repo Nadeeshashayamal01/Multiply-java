@@ -2,7 +2,7 @@ public class Multi {
 
     public static void main(String[] args) {
 
-        float first = 1.5f;
+        float first = 1.4f;
         float second = 2.0f;
 
         float product = first * second;
