@@ -2,8 +2,8 @@ public class Multi {
 
     public static void main(String[] args) {
 
-        int fnum = 10;
-        float snum = 2.5f;
+        float fnum = 10.2f;
+        float snum = 3.5f;
 
         float product = fnum * snum;
 
