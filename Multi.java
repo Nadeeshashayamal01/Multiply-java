@@ -7,6 +7,6 @@ public class Multi {
 
         float product = firstnumber * secondnumber;
 
-        System.out.println("The product is: " + product);
+        System.out.println("The product value is: " + product);
     }
 }
